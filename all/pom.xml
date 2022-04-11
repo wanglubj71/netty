@@ -23,6 +23,7 @@
     <version>4.1.76.Final-SNAPSHOT</version>
   </parent>
 
+
   <artifactId>netty-all</artifactId>
   <packaging>jar</packaging>
 
